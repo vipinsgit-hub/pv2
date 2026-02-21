@@ -46,7 +46,7 @@ const education = [
   {
     degree: 'BE Computer Science and Engineering',
     institution: 'TKSCT (Theni Kammavar Sangam College of Technology)',
-    period: '2023 - 2027',
+    period: '2024 - 2028',
     description: 'Currently in 2nd Year. Focusing on full-stack development, cybersecurity, and software engineering.',
   },
 ];
@@ -55,7 +55,7 @@ const experience = [
   {
     role: 'Self-Learning & Practical Labs',
     company: 'Personal Development',
-    period: '2023 - Present',
+    period: '2025 - Present',
     description: 'Participated in CTF challenges and hands-on security practice. Built and maintained a personal cybersecurity home lab. Practiced vulnerability scanning, network analysis, and OSINT. Consistently learning through projects, labs, and certifications.',
   },
 ];
