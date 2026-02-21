@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Heart, ArrowUp, Shield } from 'lucide-react';
+import { Github, Linkedin, Mail, ArrowUp, Shield } from 'lucide-react';
 
 const socialLinks = [
   { icon: Github, label: 'GitHub', href: 'https://github.com/vipinsgit-hub' },
