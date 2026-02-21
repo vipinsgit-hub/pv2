@@ -48,7 +48,7 @@ export default function Navigation() {
             onClick={(e) => handleNavClick(e, '#home')}
             className="text-lg md:text-xl font-semibold tracking-tight text-foreground hover:opacity-80 transition-opacity"
           >
-            &lt;Portfolio /&gt;
+            &lt;vipin /&gt;
           </a>
 
           {/* Desktop Navigation */}
