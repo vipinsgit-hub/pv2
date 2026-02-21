@@ -175,7 +175,7 @@ export default function Resume() {
               className="w-full btn-glow"
               asChild
             >
-              <a href="/resume.pdf" download>
+              <a href="/vipin.pdf" download>
                 <Download className="h-5 w-5 mr-2" />
                 Download Full Resume
               </a>
